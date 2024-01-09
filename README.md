@@ -39,6 +39,26 @@ Teams call
 Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
 </details>
 
+
+## The times/hours I like to work
+
+Evening
+
+Can be contact any time
+
+Schedule meeting 1 week before due to time difference
+
+
+## The way I like to receive feedback
+
+Email
+
+Teams call
+
++ or - all welcome
+
+
+
 ## Preferred Working Style
 
 
