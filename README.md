@@ -57,6 +57,18 @@ Teams call
 
 '+' or - all welcome
 
+## Things I need
+
+Time to think
+
+Alignment within team before meet with other team for projects
+
+## Things I struggle with
+
+Urgent deadline pushed by business
+
+
+
 
 
 ## Preferred Working Style
