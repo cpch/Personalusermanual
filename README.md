@@ -44,7 +44,7 @@ Essential Section: You might want to think about some caveats here. Perhaps Slac
 
 Afternoon and evening
 
-Can be contact any time
+Can be contact any time via email
 
 Schedule meeting 1 week before due to time difference
 
@@ -55,13 +55,13 @@ Email
 
 Teams call
 
-'+' or - all welcome
+'+' or '-' all welcome
 
 ## Things I need
 
 Time to think
 
-Alignment within team before meet with other team for projects
+Alignment and background info update within team before meet with other team for projects
 
 ## Things I struggle with
 
