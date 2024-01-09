@@ -21,7 +21,7 @@ Optional Section: You may want to fill out this as a section to help introduce y
 </details>
 
 ## Conditions I like to work in
-Quite place with little white noise.
+Quite place with little white noise.here.
 Comfortable chair with back support.
 
 
