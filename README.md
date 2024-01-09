@@ -55,7 +55,7 @@ Email
 
 Teams call
 
-+ or - all welcome
+'+' or - all welcome
 
 
 
