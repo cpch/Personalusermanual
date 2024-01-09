@@ -42,7 +42,7 @@ Essential Section: You might want to think about some caveats here. Perhaps Slac
 
 ## The times/hours I like to work
 
-Evening
+Afternoon and evening
 
 Can be contact any time
 
