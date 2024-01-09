@@ -29,9 +29,7 @@ Comfortable chair with back support
 
 ## How to Contact Me
 
-Email
-
-Teams call
+Email and Teams call for normal and urgent tasks
 
 
 <details>
