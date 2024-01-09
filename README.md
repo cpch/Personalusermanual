@@ -67,6 +67,7 @@ Alignment within team before meet with other team for projects
 
 Urgent deadline pushed by business
 
+Business asks for analyses which we do not have data or no data avaiable 
 
 
 
